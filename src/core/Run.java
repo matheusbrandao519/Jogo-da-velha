@@ -1,8 +1,7 @@
 package core;
-
 public class Run {
-    public static void main(String[]args){
-        Tela telaDOjogo = new Tela();
-    }
-    
+    public static void main(String[] args) {
+   Tela telaDOjogo = new Tela();
+}
+            
 }
